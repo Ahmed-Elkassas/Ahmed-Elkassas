@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
-You can find me on [<img src='https://img.icons8.com/glyph-neue/344/github.png' alt='github' height='40'>](https://github.com/Ahmed-Elkassas), or on [<img src='https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png' alt='linkedin' height='32' width='30'>](https://www.linkedin.com/in/ahmed-elkassas-bbb537201/)
+You can find me on [<img src='https://img.icons8.com/glyph-neue/344/github.png' alt='github' height='27' width='27' verticalalign='middle'>](https://github.com/Ahmed-Elkassas), or on [<img src='https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png' alt='linkedin' height='25' width='25'>](https://www.linkedin.com/in/ahmed-elkassas-bbb537201/)
 
 [<img src='https://img.icons8.com/glyph-neue/344/github.png' alt='github' height='40'>](https://github.com/Ahmed-Elkassas)  [<img src='https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png' alt='linkedin' height='32' width='30'>](https://www.linkedin.com/in/ahmed-elkassas-bbb537201/)  
 
