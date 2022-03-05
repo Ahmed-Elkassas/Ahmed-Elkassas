@@ -6,8 +6,13 @@
 
 ## Skills
 
-![](https://img.shields.io/https://github.com/Ahmed-Elkassas/Ahmed-Elkassas/blob/main/javascript.svg/Code-Javascript-informational?style=flat&logo=data:image/svg%2bxml&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+![](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/code-Html | Css-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/code-React-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 
 [<img src='https://img.icons8.com/glyph-neue/344/github.png' alt='github' height='40'>](https://github.com/Ahmed-Elkassas)  [<img src='https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png' alt='linkedin' height='32' width='30'>](https://www.linkedin.com/in/ahmed-elkassas-bbb537201/)  
 
