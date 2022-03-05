@@ -20,6 +20,10 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+### Backend as a Service (BaaS)
+
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 You can find me on [<img src='https://img.icons8.com/glyph-neue/344/github.png' alt='github' height='25' width='25' verticalalign='middle'>](https://github.com/Ahmed-Elkassas), or on [<img src='https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png' alt='linkedin' height='20' width='20'>](https://www.linkedin.com/in/ahmed-elkassas-bbb537201/)
