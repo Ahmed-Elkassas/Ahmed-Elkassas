@@ -8,8 +8,8 @@
 
 
 ![](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/code-Html, CSS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/code-React-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/code-Redux-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
