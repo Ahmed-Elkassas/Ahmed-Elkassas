@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Elkassas
 
-- 👀 I’m interested in Programming spcially web development 
-- 🌱 I’m currently learning front-end development path 
+- 👀 I’m interested in Programming specially web development 
+- 🌱 I'm diving deeper into the front-end development path 
 - 📫 How to reach me dev.ahmedbasuony@gmail.com
 
 ## Skills
