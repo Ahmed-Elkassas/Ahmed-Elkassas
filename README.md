@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px !important" height="auto">, I'm Ahmed Elkassas
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Ahmed Elkassas
 
 - 👀 I’m interested in Programming specially web development 
 - 🌱 I'm diving deeper into the front-end development path 
