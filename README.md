@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Programming specially web development 
 - 🌱 I'm diving deeper into the front-end development path 
-- 📫 How to reach me contact@ahmedelkassas.com
+- 📫 How to reach me dev.ahmedbasuony@gmail.com
 
 ## Skills
 
